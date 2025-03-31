@@ -41,6 +41,8 @@ This file contains the configuration for installing Artifactory.
 ```bash
 sudo vi docker-compose.yml
 ```
+**Note**:- you can change the artifactory version from this link <a href=https://jfrog.com/download-legacy/> Jfrog </a>
+
 **Paste the following YAML content:**
 ```yaml
 version: "3.3"
